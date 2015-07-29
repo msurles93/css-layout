@@ -1,0 +1,36 @@
+#container {
+	max-width:800px;
+	margin:0 auto;
+	border:2px solid;
+}
+#header {
+	width:800px;
+	height:200px;
+	border:1px solid;
+}
+#middle {
+	width:800px;
+	height:600px;
+	border:1px solid;
+}
+#leftsidebar {
+	width:300px;
+	height:200px;
+}
+#content {
+	width:200px;
+	height:200px;
+	
+
+}
+#footer{
+	width:800px;
+	height:200px;
+}
+.box {
+  float: right;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+  
+}
